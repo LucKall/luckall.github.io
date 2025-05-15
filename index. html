@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>KGS Merch</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="index.html" class="logo">KGS Merch</a>
+      <ul>
+        <li><a href="index.html">Startseite</a></li>
+        <li><a href="projects.html">Projekte</a></li>
+        <li><a href="vote.html">Abstimmung</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="hero">
+    <h1>Willkommen bei KGS Merch</h1>
+    <p>Hier findest du unsere ersten Designs – nachhaltig und stylisch.</p>
+  </main>
+
+  <footer>
+    <p>© 2025 KGS Merch</p>
+  </footer>
+</body>
+</html>
